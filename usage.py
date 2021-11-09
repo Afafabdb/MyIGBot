@@ -1,6 +1,6 @@
 from myigbot import MyIGBot
 
-bot=MyIGBot('pup.shot', 'qwertypad098')
+bot=MyIGBot('gaming_bucko', 'holyangels98')
 
 response = bot.like('https://www.instagram.com/p/CH5qV6-so6Y/')
 print(response)  # if the response code is 200 that means ok
